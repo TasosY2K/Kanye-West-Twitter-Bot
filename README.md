@@ -1,8 +1,8 @@
 # Kanye West Twitter Discord Bot
 
-In under 50 lines of node i present to you the one and only Kanye West Twitter Discord Bot 🤖/n
-Get your inspirational Kanye West quote every hour 📓/n
-Easy and fast! ✅/n
+In under 50 lines of node i present to you the one and only Kanye West Twitter Discord Bot 🤖.
+Get your inspirational Kanye West quote every hour 📓.
+Easy and fast! ✅.
 
 ## Invite
 
