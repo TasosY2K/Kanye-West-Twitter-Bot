@@ -3,8 +3,7 @@ const Request = require('request');
 const Schedule = require('node-schedule');
 const bot = new Discord.Client();
 const config = require("./config.json");
-const token = config.token;
-bot.login(token);
+bot.login(config.token);
 bot.on('ready', async (guild) => {
 	    console.log('Bot is ready');
     let t = Schedule.scheduleJob('* * * * *', function() {
